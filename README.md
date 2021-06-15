@@ -6,7 +6,7 @@
     <img src="readme/1585883803443.jpg" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">README Bluepi-de-exam</h3>
+  <h3 align="center">README</h3>
 
   <p align="center">
     <br />
