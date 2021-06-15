@@ -1,0 +1,16 @@
+{
+    "user_log":
+                {
+                    "column_name": "status",
+                    "status": "Success",
+                    "column_type":"B",
+                    "change_val": [{"0": "False","1": "True"}]
+                },
+    
+    "users":
+                {
+                    "column_name": "status",
+                    "status": "Success",
+                    "change_val": [{"0": "False","1": "True"}]
+                }
+}
