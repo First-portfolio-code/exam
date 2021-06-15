@@ -119,9 +119,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Thanyaboon Hirundomrong] - thanyaboonjob@gmail.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/First-portfolio-code/exam](https://github.com/First-portfolio-code/exam)
 
 
 
