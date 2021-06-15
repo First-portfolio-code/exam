@@ -8,11 +8,6 @@
 
   <h3 align="center">README</h3>
 
-  <p align="center">
-    <br />
-    <a href="https://github.com/First-portfolio-code/exam-bluepi/blob/main/document/documant-bluepi-exam.pdf"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     
   </p>
 </p>
